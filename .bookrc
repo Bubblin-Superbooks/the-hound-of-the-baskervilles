@@ -1,0 +1,11 @@
+{
+  "mode": {
+    "HTML": "html",
+    "CSS": "css",
+    "JS": "js",
+    "HEAD": "html"
+  },
+  "name": "The Hound Of The Baskervilles",
+  "type": "text",
+  "book_id": 459
+}
